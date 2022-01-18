@@ -4,3 +4,7 @@ h1 {
     text-align: center;
     background-color: rgb(241, 241, 19);
 }
+
+body {
+    background-color: turquoise;
+}
